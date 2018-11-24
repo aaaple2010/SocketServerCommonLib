@@ -1,0 +1,32 @@
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\SocketClientCommonLib.dll
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\SocketClientCommonLib.pdb
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.dll
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.pdb
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.csprojResolveAssemblyReference.cache
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\HelpCommonLib.dll
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+E:\vs2013\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\HelpCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\SocketClientCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\SocketClientCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\HelpCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\HelpCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.csprojResolveAssemblyReference.cache
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\log4net.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\log4net.xml
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\log4net.config
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketClientCommonLib\bin\Debug\itextsharp.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\log4net.config
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\SocketClientCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\SocketClientCommonLib.pdb
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\HelpCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\log4net.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\itextsharp.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\HelpCommonLib.pdb
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\bin\Debug\log4net.xml
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.csprojResolveAssemblyReference.cache
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketClientCommonLib\obj\Debug\SocketClientCommonLib.pdb
