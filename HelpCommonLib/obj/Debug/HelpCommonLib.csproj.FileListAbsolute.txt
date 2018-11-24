@@ -1,0 +1,41 @@
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\bin\Debug\HelpCommonLib.dll
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\bin\Debug\HelpCommonLib.pdb
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\obj\Debug\Interop.NetFwTypeLib.dll
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.csproj.ResolveComReference.cache
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.dll
+E:\vs2013\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\HelpCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\HelpCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\obj\Debug\Interop.NetFwTypeLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.csproj.ResolveComReference.cache
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\log4net.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\log4net.xml
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\log4net.config
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\iTextAsian.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\iTextAsianCmaps.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\bin\Debug\itextsharp.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\HelpCommonLib\obj\Debug\HelpCommonLib.csprojResolveAssemblyReference.cache
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\log4net.config
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\HelpCommonLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\HelpCommonLib.pdb
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\log4net.xml
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.csprojResolveAssemblyReference.cache
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\Interop.NetFwTypeLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.csproj.ResolveComReference.cache
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.pdb
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\log4net.config
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\HelpCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\HelpCommonLib.pdb
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\log4net.xml
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\bin\Debug\Interop.NetFwTypeLib.dll
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.csprojResolveAssemblyReference.cache
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\Interop.NetFwTypeLib.dll
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.csproj.ResolveComReference.cache
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\HelpCommonLib\obj\Debug\HelpCommonLib.pdb
