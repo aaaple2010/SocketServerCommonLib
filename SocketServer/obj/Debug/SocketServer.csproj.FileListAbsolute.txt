@@ -1,0 +1,69 @@
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\SocketServer.exe
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\SocketServer.pdb
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\SocketServerCommonLib.dll
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\SocketServerCommonLib.pdb
+E:\vs2013\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\vs2013\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+E:\vs2013\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+E:\vs2013\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.exe
+E:\vs2013\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.pdb
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\HelpCommonLib.dll
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\Interop.NetFwTypeLib.dll
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\HelpCommonLib.pdb
+E:\vs2013\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.TCPUDPServer.resources
+E:\vs2013\SocketServerCommonLib\SocketServer\bin\Debug\CSkin.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.exe
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\SocketServer.exe
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\SocketServer.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\CSkin.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\HelpCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\SocketServerCommonLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\Interop.NetFwTypeLib.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\HelpCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\SocketServerCommonLib.pdb
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.TCPUDPServer.resources
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\log4net.dll
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\log4net.xml
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\log4net.config
+F:\V vss 主服务器(慎重操作)\SocketServerCommonLib\SocketServer\bin\Debug\itextsharp.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.exe
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.pdb
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\log4net.config
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServer.exe
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServer.pdb
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\CSkin.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\HelpCommonLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServerCommonLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\log4net.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\itextsharp.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\Interop.NetFwTypeLib.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\Microsoft.mshtml.dll
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\HelpCommonLib.pdb
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServerCommonLib.pdb
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\log4net.xml
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.TCPUDPServer.resources
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+F:\huchuanke\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+J:\project\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.exe
+J:\project\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.pdb
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\log4net.config
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServer.exe
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServer.pdb
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\CSkin.dll
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\HelpCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServerCommonLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\log4net.dll
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\itextsharp.dll
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\Interop.NetFwTypeLib.dll
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\HelpCommonLib.pdb
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\SocketServerCommonLib.pdb
+J:\project\SocketServerCommonLib_云服务器\SocketServer\bin\Debug\log4net.xml
+J:\project\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+J:\project\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.TCPUDPServer.resources
+J:\project\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+J:\project\SocketServerCommonLib_云服务器\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
